@@ -14,8 +14,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
 
-
-
+## Recent projects
+- [Developets](https://pet-store-ecommerce.vercel.app/) ━ E-commerce or online petshop for the purchase of various products for pets. Designed to be used both as a user and as an administrator
 
 ---
 
