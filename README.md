@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2> Hi, I'm Ailen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -7,6 +7,7 @@
 [![Twitter: Ailen De Santis](https://img.shields.io/twitter/follow/AilenDeSantis?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: Ailen De Santis](https://img.shields.io/badge/-AilenDeSantis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailen-de-santis-fullstack/)](https://www.linkedin.com/in/ailen-de-santis-fullstack/)
 [![GitHub Ailen De Santis](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AilenDeSantis)
+[![Instagram Ailen De Santis](https://img.shields.io/instagram/follow/AilenDeSantis?style=social)](https://www.instagram.com/ailendesantis/)
 
 
 I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
