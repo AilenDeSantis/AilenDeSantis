@@ -9,7 +9,7 @@
 [![GitHub Ailen De Santis](https://img.shields.io/github/followers/AilenDeSantis?label=follow&style=social)](https://github.com/AilenDeSantis)
 [![Instagram Badge](https://img.shields.io/badge/-@ailendesantis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ailendesantis/)](https://instagram.com/ailendesantis)
 
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
 
 
@@ -30,6 +30,7 @@ I have a degree in Film and TV, piano teacher, and full stack developer student 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 **AilenDeSantis/AilenDeSantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
