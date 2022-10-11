@@ -7,7 +7,7 @@
 [![Twitter: Ailen De Santis](https://img.shields.io/twitter/follow/AilenDeSantis?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: Ailen De Santis](https://img.shields.io/badge/-AilenDeSantis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailen-de-santis-fullstack/)](https://www.linkedin.com/in/ailen-de-santis-fullstack/)
 [![GitHub Ailen De Santis](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AilenDeSantis)
-[![Instagram Badge](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://instagram.com/ailendesantis)
+[![Instagram Badge](https://img.shields.io/badge/-@ailendesantis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ailendesantis/)](https://instagram.com/ailendesantis)
 
 
 I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
