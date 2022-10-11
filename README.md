@@ -12,7 +12,7 @@
 
 I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
 
-![Profile views](https://github.com/AilenDeSantis)  <img src="https://img.shields.io/github/followers/AilenDeSantis?label=Follow" style=" float:left, margin-right:10px" />
+
 
 
 ---
