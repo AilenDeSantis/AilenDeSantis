@@ -31,6 +31,19 @@ I have a degree in Film and TV, piano teacher, and full stack developer student 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+***
+
+<a href="https://github.com/AilenDeSantis">
+  <img src="https://github-readme-stats.vercel.app/api?username=AilenDeSantis&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/AilenDeSantis">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AilenDeSantis&layout=compact" />
+</a>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
