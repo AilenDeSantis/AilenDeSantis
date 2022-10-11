@@ -8,7 +8,7 @@
 [![Linkedin: Ailen De Santis](https://img.shields.io/badge/-AilenDeSantis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailen-de-santis-fullstack/)](https://www.linkedin.com/in/ailen-de-santis-fullstack/)
 [![GitHub Ailen De Santis](https://img.shields.io/github/followers/AilenDeSantis?label=follow&style=social)](https://github.com/AilenDeSantis)
 [![Instagram Badge](https://img.shields.io/badge/-@ailendesantis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ailendesantis/)](https://instagram.com/ailendesantis)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AilenDeSantis.AilenDeSantis)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
