@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
+
 <!--
 **AilenDeSantis/AilenDeSantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
