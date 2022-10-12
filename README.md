@@ -19,7 +19,7 @@ Due to my good academic performance, the Government of the Province of San Luis 
 I studied a degree in Film and Television (UNC) and my thesis was a research project.
 I did my Piano Teacher studies at the Conservatorio Ibero-americano Rossini, graduating with a grade of 10 and a double medal at the age of 14.
 
-I also like traveling and landscape photography, something I combine on my personal Instagram 📸
+I also like traveling and landscape photography <img src="https://media.giphy.com/media/A6rcHKnnLGFUUaNp2g/giphy.gif" width="30">, something I combine on my personal Instagram <img src="https://media.giphy.com/media/CbIM7u9TxvSs1KXwfD/giphy.gif" width="30">
 
 I am currently looking to work professionally in the IT sector <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="30">
 
