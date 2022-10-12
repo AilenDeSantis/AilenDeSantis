@@ -20,9 +20,11 @@ I studied a degree in Film and Television (UNC) and my thesis was a research pro
 I did my Piano Teacher studies at the Conservatorio Ibero-americano Rossini, graduating with a grade of 10 and a double medal at the age of 14.
 
 I also like traveling and landscape photography, something I combine on my personal Instagram 📸
-<p>I am currently looking to work professionally in the IT sector 💻</p>
 
-## Recent projects
+I am currently looking to work professionally in the IT sector <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="30">
+
+
+### <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="50"> Recent projects
 - [Developets](https://pet-store-ecommerce.vercel.app/) ━ E-commerce or online petshop for the purchase of various products for pets. Designed to be used both as a user and as an administrator  <img src="https://media.giphy.com/media/dVmku3ZCuR73LBUWxS/giphy.gif" width="30">
 
 ---
