@@ -30,7 +30,7 @@ I am currently looking to work professionally in the IT sector <img src="https:/
 ---
 
 
-### Tech & Tools Preference
+### <img src="https://media.giphy.com/media/UE8IERTQe4YDjGZKx6/giphy.gif" width="50"> Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
