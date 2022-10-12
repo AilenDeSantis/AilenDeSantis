@@ -12,7 +12,13 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-I have a degree in Film and TV, piano teacher, and full stack developer student at Henry. I like to travel and record the places in photos that I post on Insta
+I have a degree in Film and Television and a Piano Teacher. I recently graduated as a Fullstack Developer at Henry and am taking a training in Argentina Programa.
+I studied at a High School focused on Economics and Management of Organizations in which I graduated with a medal for the best high school average over time.
+Due to my good academic performance, the Government of the Province of San Luis awarded me a Scholarship during my University studies.
+I studied a degree in Film and Television (UNC) and my thesis was a research project.
+I did my Piano Teacher studies at the Conservatorio Ibero-americano Rossini, graduating with a grade of 10 and a double medal at the age of 14.
+I also like traveling and landscape photography, something I combine on my personal Instagram 📸
+I am currently looking to work professionally in the IT sector 💻
 
 ## Recent projects
 - [Developets](https://pet-store-ecommerce.vercel.app/) ━ E-commerce or online petshop for the purchase of various products for pets. Designed to be used both as a user and as an administrator
