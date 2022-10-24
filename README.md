@@ -4,7 +4,7 @@
 <p><em>Full Stack Developer <a href="https://www.soyhenry.com/"> Henry </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Full Stack Developer <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa"> Argentina Programa </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Full Stack Developer <a href="https://open-bootcamp.com/"> OpenBootcamp </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>  Degree in Film and Television <a href="https://www.unc.edu.ar/"> Universidad Nacional de Córdoba</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Piano Teacher in Conservatorio Iberoamericano Rossini </a><img src="https://media.giphy.com/media/YkyksHRWDaWmx9N7aT/giphy.gif" width="30"></br> 
 </em></p>
 
-[![Twitter: Ailen De Santis](https://img.shields.io/twitter/follow/AilenDeSantis?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: Ailen De Santis](https://img.shields.io/twitter/follow/AilenDeSantis?style=social)](https://twitter.com/AilenDeSantis)
 [![Linkedin: Ailen De Santis](https://img.shields.io/badge/-AilenDeSantis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailen-de-santis-fullstack/)](https://www.linkedin.com/in/ailen-de-santis-fullstack/)
 [![GitHub Ailen De Santis](https://img.shields.io/github/followers/AilenDeSantis?label=follow&style=social)](https://github.com/AilenDeSantis)
 [![Instagram Badge](https://img.shields.io/badge/-@ailendesantis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ailendesantis/)](https://instagram.com/ailendesantis)
