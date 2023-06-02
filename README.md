@@ -25,7 +25,7 @@ I am currently looking to work professionally in the IT sector <img src="https:/
 
 
 ### <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="50"> Recent projects
-- [Portfolio](https://portfolio-frontend-ailends.web.app) - Portfolio developed by me with information about my education, experiences, projects, etc. <img src="https://media.giphy.com/media/xUOwG6gwiJo5UZxpeM/giphy.gif" width="30">
+- [Portfolio](https://portfolio-frontend-ailends.web.app) - Portfolio developed by me with information about my education, experiences, projects, etc. <img src="https://media.giphy.com/media/igyHmJPX3tI0F0KFKv/giphy.gif" width="30">
 - [Developets](https://pet-store-ecommerce.vercel.app/) ━ E-commerce or online petshop for the purchase of various products for pets. Designed to be used both as a user and as an administrator  <img src="https://media.giphy.com/media/dVmku3ZCuR73LBUWxS/giphy.gif" width="30">
 
 ---
